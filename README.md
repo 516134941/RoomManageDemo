@@ -10,5 +10,5 @@ use room;
 使用VS打开sln工程文件应该就能跑了  
 ```
 **预览图**  
-![Image text](https://github.com/516134941/RoomManageDemo/edit/master/1.jpg) 
-![Image text](https://github.com/516134941/RoomManageDemo/edit/master/2.png)
+![Image text](https://github.com/516134941/RoomManageDemo/edit/master/pic/index1.jpg)  
+![Image text](https://github.com/516134941/RoomManageDemo/edit/master/pic/index2.png)
