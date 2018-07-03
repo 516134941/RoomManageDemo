@@ -1,4 +1,5 @@
 # RoomManageDemo
+**简易的宿舍管理系统demo**  
 **A Demo by Asp.net+mysql**  
 **帮朋友写的一个demo 临时1天学的asp.net**  
 **使用方法** 
